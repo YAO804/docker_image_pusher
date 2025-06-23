@@ -13,3 +13,4 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+golang:1.18.2
